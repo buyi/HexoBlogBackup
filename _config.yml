@@ -74,5 +74,5 @@ deploy:
 backup:
     type: git
     theme: landscape    
-    repository: 
-        github: git@github.com:buyi/HexoBlogBackup.git,master
+    repository:
+         github: git@github.com:buyi/HexoBlogBackup.git,master
