@@ -75,4 +75,4 @@ backup:
     type: git
     theme: landscape    
     repository: 
-        github: buyi007@github.com/buyi/HexoBlogBackup.git,master
+        github: https://buyi007@github.com/buyi/HexoBlogBackup.git,master
